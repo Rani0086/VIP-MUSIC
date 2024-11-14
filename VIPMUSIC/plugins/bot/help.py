@@ -470,8 +470,8 @@ async def about_callback(client: Client, callback_query: CallbackQuery):
             ),
         ],
         [
-            InlineKeyboardButton(text="🎁ɪɴsᴛᴀ🎁", url=f"instagram.com/the.vip.boy"),
-            InlineKeyboardButton(text="💲ʏᴏᴜᴛᴜʙᴇ💲", url=f"youtube.com/@THE_VIP_BOY"),
+            InlineKeyboardButton(text="🎁plant🎁", url=f"https://t.me/Planetsadala"),
+            InlineKeyboardButton(text="💲ʏᴏᴜᴛᴜʙᴇ💲", url=f"https://t.me/Planetsadala"),
         ],
         [
             InlineKeyboardButton(text="🔙 Back", callback_data="about")
