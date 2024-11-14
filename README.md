@@ -20,7 +20,7 @@ A powerful Telegram music bot for voice chats with features like YouTube, Spotif
 ## ⚡️ Quick Setup
 
 ### Heroku Deployment 
-[![Deploy on Heroku](https://img.shields.io/badge/Deploy%20On%20Heroku-purple?style=for-the-badge&logo=heroku)](https://dashboard.heroku.com/new?template=https://github.com/THE-VIP-BOY-OP/VIP-MUSIC)
+[![Deploy on Heroku](https://img.shields.io/badge/Deploy%20On%20Heroku-purple?style=for-the-badge&logo=heroku)](https://dashboard.heroku.com/new?template=https://github.com/Rani0086/VIP-MUSIC)
 
 ### 🖇 VPS Deployment
 - Clone repo: `git clone https://github.com/THE-VIP-BOY-OP/VIP-MUSIC && cd VIP-MUSIC`
